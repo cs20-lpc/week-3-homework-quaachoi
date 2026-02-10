@@ -71,7 +71,7 @@ int main()
                         if(studentList->getElement(i).getID() == tempID)
                         {
                             studentList->remove(i);
-                            bool removed = true;
+                            removed = true;
                         }
                     }
 
