@@ -14,5 +14,5 @@ struct Course
     virtual string getCourseInfo();
 };
 
-#include "Course.cpp"
+#include "Course.tpp"
 #endif

@@ -26,5 +26,5 @@ class Student
         virtual int getID();
 };
 
-#include "Student.cpp"
+#include "Student.tpp"
 #endif
